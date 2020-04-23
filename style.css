@@ -1,11 +1,8 @@
 .container{
-    margin-bottom:;
+    margin-bottom: 100px;
 }
 .navbar{
     float: right;
-}
-img{
-    width: px;
 }
 .container p{
     text-align: justify;
@@ -29,6 +26,13 @@ img{
 p{
     text-align: center;
 }
+.smartphone{
+    height: 100%;
+}
 h6{
-    float: right;
+     float: right;
+    color: orange;
+}
+.card-deck{
+    padding-top: 50px;
 }
